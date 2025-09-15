@@ -1,0 +1,1 @@
+# IrrigaMind-Weather--and-Soil-Aware-ML-Prescriptions
